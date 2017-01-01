@@ -5,10 +5,15 @@
 
 ### import
 将`ArchiverEasy`文件夹拉入目录
-导入文件
+手工导入
 	
 	#import "NSKeyedArchiver+Key.h"
 	#import "NSKeyedUnarchiver+Key.h"
+	
+pod安装
+	
+	pod 'ArchiverEasy', '~> 1.0'
+	
 
 ### Archiving
 	 
