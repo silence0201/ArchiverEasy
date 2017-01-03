@@ -34,4 +34,4 @@ pod安装
     
 ## ArchiverEasy
 
-LKArchiver is available under the MIT license. See the LICENSE file for more info.
+ArchiverEasy is available under the MIT license. See the LICENSE file for more info.
